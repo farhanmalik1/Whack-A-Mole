@@ -1,0 +1,22 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    background-color: black;
+    color: white;
+
+}
+.grid{
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.square{
+    width: 200px;
+    height: 200px;
+    border: 1px solid white;
+}
+.mole{
+    background-color: white;
+}
