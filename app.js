@@ -30,7 +30,7 @@ squares.forEach(square => {
 }
 function moveMole() {
    
-    timerID = setInterval(boxCheck, 500)
+    timerID = setInterval(boxCheck, 1000)
 
 }
 
