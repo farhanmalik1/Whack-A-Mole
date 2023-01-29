@@ -5,16 +5,16 @@ body{
 
 }
 .grid{
-    width: 606px;
-    height: 606px;
+    width: 305px;
+    height: 305px;
     display: flex;
     flex-wrap: wrap;
     margin: 0 auto;
 }
 
 .square{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     border: 1px solid white;
 }
 .mole{
