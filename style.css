@@ -5,18 +5,19 @@ body{
 
 }
 .grid{
-    width: 305px;
-    height: 305px;
+    width: 606px;
+    height: 606px;
     display: flex;
     flex-wrap: wrap;
     margin: 0 auto;
 }
 
 .square{
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border: 1px solid white;
 }
 .mole{
     background-color: white;
 }
+
